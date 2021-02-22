@@ -1,3 +1,4 @@
 import 'products/ProductsIndex'
+import 'cart/CartShow'
 
-console.log('Container!!')
+console.log('%cContainer Loaded, Dude', 'color:green')
