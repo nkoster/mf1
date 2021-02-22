@@ -1,4 +1,5 @@
 container/node_modules/
 products/dist/
 products/node_modules/
+cart/node_modules/
 readme
